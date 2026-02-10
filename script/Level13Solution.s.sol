@@ -1,7 +1,6 @@
 // SPDX-License-Identifier: MIT
 pragma solidity 0.8.25;
 
-import {Level0} from "../src/level-0/Level0.sol";
 import {Script} from "forge-std/script.sol";
 
-contract Level0Solution is Script {}
+contract Level13Solution is Script {}
